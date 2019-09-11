@@ -2,6 +2,7 @@
 ## Resource Links
 * https://github.com/mli/d2l-1day-notebooks-zh
 * https://www.top500.org/
+* https://t.csdnimg.cn/C0SI
 
 ## 9月4日，2019（http://1day-zh.d2l.ai/)
 我们今天要解决的问题：
