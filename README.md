@@ -1,5 +1,9 @@
 # CSDN-AIProCon
-## 9月4日，2019（
+## Resource Links
+* https://github.com/mli/d2l-1day-notebooks-zh
+* https://www.top500.org/
+
+## 9月4日，2019（http://1day-zh.d2l.ai/)
 我们今天要解决的问题：
 * 分类
     * 猫，狗，兔子，仓鼠
