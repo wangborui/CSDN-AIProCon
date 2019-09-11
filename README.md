@@ -71,5 +71,25 @@ cpu=能不能快速实现一个问题（手速）
     * 无处不在的算法：AI、ML在Cognitive Radio，Massive MIMO
 * 5G的普及过程中会逐渐产生全新的链接与计算模式
 
-
+## 9月6日，2019
+### Tensorflow.js
 Most people overestimate what they can do in one year and underestimate what they can do in ten years.—Bill Gates
+
+* Google invests lots of money and resources into open source projects?How to make money?
+    * Serve community
+    * Not really profitable
+* How does python compare to javascript in ML?
+    * Depending on situation
+* Tensorflow.js only has 6 people at Google brains.
+
+
+
+
+
+
+
+
+
+
+
+
